@@ -68,7 +68,8 @@ El desarrollo de este proyecto se realizó con buenas prácticas, utilizando iss
 
 ## 📷 Captura de pantalla
 
-> *(Podés reemplazar la imagen con una captura real del programa funcionando.)*
+![image](https://github.com/user-attachments/assets/fae50bcf-b0e3-4b6a-b737-df932448f85e)
+
 
 ---
 
